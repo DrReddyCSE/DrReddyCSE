@@ -1,2 +1,2 @@
-# vish9u.github.io
+# DrReddyCSE.github.io
 Personal Website
